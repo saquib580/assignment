@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignment.git/static/css/main.d20202a4.css",
+    "main.js": "/assignment.git/static/js/main.f3a6d183.js",
+    "static/js/787.bffa9f59.chunk.js": "/assignment.git/static/js/787.bffa9f59.chunk.js",
+    "index.html": "/assignment.git/index.html",
+    "main.d20202a4.css.map": "/assignment.git/static/css/main.d20202a4.css.map",
+    "main.f3a6d183.js.map": "/assignment.git/static/js/main.f3a6d183.js.map",
+    "787.bffa9f59.chunk.js.map": "/assignment.git/static/js/787.bffa9f59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.f3a6d183.js"
+  ]
+}
